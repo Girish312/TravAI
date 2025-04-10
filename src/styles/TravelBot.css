@@ -1,0 +1,70 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: #fbc12db9;
+  margin-top: 5rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.chat-box {
+  border: 1px solid #ddd;
+  height: 320px;
+  padding: 10px;
+  overflow-y: auto;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.bot {
+  text-align: left;
+  color: #256029;
+  margin-bottom: 10px;
+}
+
+.user {
+  text-align: right;
+  color: #1e40af;
+  margin-bottom: 10px;
+}
+
+.input-area {
+  display: flex;
+  gap: 8px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  height: 2rem;
+}
+
+.btn-send {
+  padding: 8px 14px;
+  background-color: #1e40af;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 2.8rem;
+  width: 5.5rem;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.btn-send:hover {
+  background-color: #1e3a8a;
+}

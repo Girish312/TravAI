@@ -1,0 +1,802 @@
+[
+    {
+        "id":1,
+        "name":"Gateway of India",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai.",
+        "combined":"Gateway of India Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai."
+    },
+    {
+        "id":2,
+        "name":"Elephanta Caves",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site.",
+        "combined":"Elephanta Caves Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site."
+    },
+    {
+        "id":3,
+        "name":"Marine Drive",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view.",
+        "combined":"Marine Drive Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view."
+    },
+    {
+        "id":4,
+        "name":"Ajanta Caves",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE.",
+        "combined":"Ajanta Caves Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE."
+    },
+    {
+        "id":5,
+        "name":"Ellora Caves",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions.",
+        "combined":"Ellora Caves Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions."
+    },
+    {
+        "id":6,
+        "name":"Shani Shingnapur",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors.",
+        "combined":"Shani Shingnapur Ahmednagar Religious Famous for the Shani temple and houses without doors."
+    },
+    {
+        "id":7,
+        "name":"Mahabaleshwar",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries.",
+        "combined":"Mahabaleshwar Satara Hill Station A scenic hill station known for its viewpoints and strawberries."
+    },
+    {
+        "id":8,
+        "name":"Panchgani",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings.",
+        "combined":"Panchgani Satara Hill Station A charming hill station with five plateaus and colonial-era buildings."
+    },
+    {
+        "id":9,
+        "name":"Lonavala",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts.",
+        "combined":"Lonavala Pune Hill Station Popular hill station known for waterfalls and forts."
+    },
+    {
+        "id":10,
+        "name":"Khandala",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls.",
+        "combined":"Khandala Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls."
+    },
+    {
+        "id":11,
+        "name":"Gateway of India 11",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #11)",
+        "combined":"Gateway of India 11 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #11)"
+    },
+    {
+        "id":12,
+        "name":"Elephanta Caves 12",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #12)",
+        "combined":"Elephanta Caves 12 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #12)"
+    },
+    {
+        "id":13,
+        "name":"Marine Drive 13",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #13)",
+        "combined":"Marine Drive 13 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #13)"
+    },
+    {
+        "id":14,
+        "name":"Ajanta Caves 14",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #14)",
+        "combined":"Ajanta Caves 14 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #14)"
+    },
+    {
+        "id":15,
+        "name":"Ellora Caves 15",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #15)",
+        "combined":"Ellora Caves 15 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #15)"
+    },
+    {
+        "id":16,
+        "name":"Shani Shingnapur 16",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #16)",
+        "combined":"Shani Shingnapur 16 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #16)"
+    },
+    {
+        "id":17,
+        "name":"Mahabaleshwar 17",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #17)",
+        "combined":"Mahabaleshwar 17 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #17)"
+    },
+    {
+        "id":18,
+        "name":"Panchgani 18",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #18)",
+        "combined":"Panchgani 18 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #18)"
+    },
+    {
+        "id":19,
+        "name":"Lonavala 19",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #19)",
+        "combined":"Lonavala 19 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #19)"
+    },
+    {
+        "id":20,
+        "name":"Khandala 20",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #20)",
+        "combined":"Khandala 20 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #20)"
+    },
+    {
+        "id":21,
+        "name":"Gateway of India 21",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #21)",
+        "combined":"Gateway of India 21 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #21)"
+    },
+    {
+        "id":22,
+        "name":"Elephanta Caves 22",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #22)",
+        "combined":"Elephanta Caves 22 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #22)"
+    },
+    {
+        "id":23,
+        "name":"Marine Drive 23",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #23)",
+        "combined":"Marine Drive 23 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #23)"
+    },
+    {
+        "id":24,
+        "name":"Ajanta Caves 24",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #24)",
+        "combined":"Ajanta Caves 24 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #24)"
+    },
+    {
+        "id":25,
+        "name":"Ellora Caves 25",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #25)",
+        "combined":"Ellora Caves 25 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #25)"
+    },
+    {
+        "id":26,
+        "name":"Shani Shingnapur 26",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #26)",
+        "combined":"Shani Shingnapur 26 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #26)"
+    },
+    {
+        "id":27,
+        "name":"Mahabaleshwar 27",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #27)",
+        "combined":"Mahabaleshwar 27 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #27)"
+    },
+    {
+        "id":28,
+        "name":"Panchgani 28",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #28)",
+        "combined":"Panchgani 28 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #28)"
+    },
+    {
+        "id":29,
+        "name":"Lonavala 29",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #29)",
+        "combined":"Lonavala 29 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #29)"
+    },
+    {
+        "id":30,
+        "name":"Khandala 30",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #30)",
+        "combined":"Khandala 30 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #30)"
+    },
+    {
+        "id":31,
+        "name":"Gateway of India 31",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #31)",
+        "combined":"Gateway of India 31 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #31)"
+    },
+    {
+        "id":32,
+        "name":"Elephanta Caves 32",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #32)",
+        "combined":"Elephanta Caves 32 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #32)"
+    },
+    {
+        "id":33,
+        "name":"Marine Drive 33",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #33)",
+        "combined":"Marine Drive 33 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #33)"
+    },
+    {
+        "id":34,
+        "name":"Ajanta Caves 34",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #34)",
+        "combined":"Ajanta Caves 34 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #34)"
+    },
+    {
+        "id":35,
+        "name":"Ellora Caves 35",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #35)",
+        "combined":"Ellora Caves 35 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #35)"
+    },
+    {
+        "id":36,
+        "name":"Shani Shingnapur 36",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #36)",
+        "combined":"Shani Shingnapur 36 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #36)"
+    },
+    {
+        "id":37,
+        "name":"Mahabaleshwar 37",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #37)",
+        "combined":"Mahabaleshwar 37 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #37)"
+    },
+    {
+        "id":38,
+        "name":"Panchgani 38",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #38)",
+        "combined":"Panchgani 38 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #38)"
+    },
+    {
+        "id":39,
+        "name":"Lonavala 39",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #39)",
+        "combined":"Lonavala 39 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #39)"
+    },
+    {
+        "id":40,
+        "name":"Khandala 40",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #40)",
+        "combined":"Khandala 40 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #40)"
+    },
+    {
+        "id":41,
+        "name":"Gateway of India 41",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #41)",
+        "combined":"Gateway of India 41 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #41)"
+    },
+    {
+        "id":42,
+        "name":"Elephanta Caves 42",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #42)",
+        "combined":"Elephanta Caves 42 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #42)"
+    },
+    {
+        "id":43,
+        "name":"Marine Drive 43",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #43)",
+        "combined":"Marine Drive 43 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #43)"
+    },
+    {
+        "id":44,
+        "name":"Ajanta Caves 44",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #44)",
+        "combined":"Ajanta Caves 44 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #44)"
+    },
+    {
+        "id":45,
+        "name":"Ellora Caves 45",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #45)",
+        "combined":"Ellora Caves 45 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #45)"
+    },
+    {
+        "id":46,
+        "name":"Shani Shingnapur 46",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #46)",
+        "combined":"Shani Shingnapur 46 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #46)"
+    },
+    {
+        "id":47,
+        "name":"Mahabaleshwar 47",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #47)",
+        "combined":"Mahabaleshwar 47 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #47)"
+    },
+    {
+        "id":48,
+        "name":"Panchgani 48",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #48)",
+        "combined":"Panchgani 48 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #48)"
+    },
+    {
+        "id":49,
+        "name":"Lonavala 49",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #49)",
+        "combined":"Lonavala 49 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #49)"
+    },
+    {
+        "id":50,
+        "name":"Khandala 50",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #50)",
+        "combined":"Khandala 50 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #50)"
+    },
+    {
+        "id":51,
+        "name":"Gateway of India 51",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #51)",
+        "combined":"Gateway of India 51 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #51)"
+    },
+    {
+        "id":52,
+        "name":"Elephanta Caves 52",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #52)",
+        "combined":"Elephanta Caves 52 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #52)"
+    },
+    {
+        "id":53,
+        "name":"Marine Drive 53",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #53)",
+        "combined":"Marine Drive 53 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #53)"
+    },
+    {
+        "id":54,
+        "name":"Ajanta Caves 54",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #54)",
+        "combined":"Ajanta Caves 54 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #54)"
+    },
+    {
+        "id":55,
+        "name":"Ellora Caves 55",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #55)",
+        "combined":"Ellora Caves 55 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #55)"
+    },
+    {
+        "id":56,
+        "name":"Shani Shingnapur 56",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #56)",
+        "combined":"Shani Shingnapur 56 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #56)"
+    },
+    {
+        "id":57,
+        "name":"Mahabaleshwar 57",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #57)",
+        "combined":"Mahabaleshwar 57 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #57)"
+    },
+    {
+        "id":58,
+        "name":"Panchgani 58",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #58)",
+        "combined":"Panchgani 58 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #58)"
+    },
+    {
+        "id":59,
+        "name":"Lonavala 59",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #59)",
+        "combined":"Lonavala 59 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #59)"
+    },
+    {
+        "id":60,
+        "name":"Khandala 60",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #60)",
+        "combined":"Khandala 60 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #60)"
+    },
+    {
+        "id":61,
+        "name":"Gateway of India 61",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #61)",
+        "combined":"Gateway of India 61 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #61)"
+    },
+    {
+        "id":62,
+        "name":"Elephanta Caves 62",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #62)",
+        "combined":"Elephanta Caves 62 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #62)"
+    },
+    {
+        "id":63,
+        "name":"Marine Drive 63",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #63)",
+        "combined":"Marine Drive 63 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #63)"
+    },
+    {
+        "id":64,
+        "name":"Ajanta Caves 64",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #64)",
+        "combined":"Ajanta Caves 64 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #64)"
+    },
+    {
+        "id":65,
+        "name":"Ellora Caves 65",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #65)",
+        "combined":"Ellora Caves 65 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #65)"
+    },
+    {
+        "id":66,
+        "name":"Shani Shingnapur 66",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #66)",
+        "combined":"Shani Shingnapur 66 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #66)"
+    },
+    {
+        "id":67,
+        "name":"Mahabaleshwar 67",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #67)",
+        "combined":"Mahabaleshwar 67 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #67)"
+    },
+    {
+        "id":68,
+        "name":"Panchgani 68",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #68)",
+        "combined":"Panchgani 68 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #68)"
+    },
+    {
+        "id":69,
+        "name":"Lonavala 69",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #69)",
+        "combined":"Lonavala 69 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #69)"
+    },
+    {
+        "id":70,
+        "name":"Khandala 70",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #70)",
+        "combined":"Khandala 70 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #70)"
+    },
+    {
+        "id":71,
+        "name":"Gateway of India 71",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #71)",
+        "combined":"Gateway of India 71 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #71)"
+    },
+    {
+        "id":72,
+        "name":"Elephanta Caves 72",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #72)",
+        "combined":"Elephanta Caves 72 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #72)"
+    },
+    {
+        "id":73,
+        "name":"Marine Drive 73",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #73)",
+        "combined":"Marine Drive 73 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #73)"
+    },
+    {
+        "id":74,
+        "name":"Ajanta Caves 74",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #74)",
+        "combined":"Ajanta Caves 74 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #74)"
+    },
+    {
+        "id":75,
+        "name":"Ellora Caves 75",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #75)",
+        "combined":"Ellora Caves 75 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #75)"
+    },
+    {
+        "id":76,
+        "name":"Shani Shingnapur 76",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #76)",
+        "combined":"Shani Shingnapur 76 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #76)"
+    },
+    {
+        "id":77,
+        "name":"Mahabaleshwar 77",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #77)",
+        "combined":"Mahabaleshwar 77 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #77)"
+    },
+    {
+        "id":78,
+        "name":"Panchgani 78",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #78)",
+        "combined":"Panchgani 78 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #78)"
+    },
+    {
+        "id":79,
+        "name":"Lonavala 79",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #79)",
+        "combined":"Lonavala 79 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #79)"
+    },
+    {
+        "id":80,
+        "name":"Khandala 80",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #80)",
+        "combined":"Khandala 80 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #80)"
+    },
+    {
+        "id":81,
+        "name":"Gateway of India 81",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #81)",
+        "combined":"Gateway of India 81 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #81)"
+    },
+    {
+        "id":82,
+        "name":"Elephanta Caves 82",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #82)",
+        "combined":"Elephanta Caves 82 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #82)"
+    },
+    {
+        "id":83,
+        "name":"Marine Drive 83",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #83)",
+        "combined":"Marine Drive 83 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #83)"
+    },
+    {
+        "id":84,
+        "name":"Ajanta Caves 84",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #84)",
+        "combined":"Ajanta Caves 84 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #84)"
+    },
+    {
+        "id":85,
+        "name":"Ellora Caves 85",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #85)",
+        "combined":"Ellora Caves 85 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #85)"
+    },
+    {
+        "id":86,
+        "name":"Shani Shingnapur 86",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #86)",
+        "combined":"Shani Shingnapur 86 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #86)"
+    },
+    {
+        "id":87,
+        "name":"Mahabaleshwar 87",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #87)",
+        "combined":"Mahabaleshwar 87 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #87)"
+    },
+    {
+        "id":88,
+        "name":"Panchgani 88",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #88)",
+        "combined":"Panchgani 88 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #88)"
+    },
+    {
+        "id":89,
+        "name":"Lonavala 89",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #89)",
+        "combined":"Lonavala 89 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #89)"
+    },
+    {
+        "id":90,
+        "name":"Khandala 90",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #90)",
+        "combined":"Khandala 90 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #90)"
+    },
+    {
+        "id":91,
+        "name":"Gateway of India 91",
+        "location":"Mumbai",
+        "type":"Historical Monument",
+        "description":"An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #91)",
+        "combined":"Gateway of India 91 Mumbai Historical Monument An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #91)"
+    },
+    {
+        "id":92,
+        "name":"Elephanta Caves 92",
+        "location":"Mumbai",
+        "type":"Heritage Site",
+        "description":"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #92)",
+        "combined":"Elephanta Caves 92 Mumbai Heritage Site Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #92)"
+    },
+    {
+        "id":93,
+        "name":"Marine Drive 93",
+        "location":"Mumbai",
+        "type":"Promenade",
+        "description":"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #93)",
+        "combined":"Marine Drive 93 Mumbai Promenade A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #93)"
+    },
+    {
+        "id":94,
+        "name":"Ajanta Caves 94",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #94)",
+        "combined":"Ajanta Caves 94 Aurangabad Heritage Site Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #94)"
+    },
+    {
+        "id":95,
+        "name":"Ellora Caves 95",
+        "location":"Aurangabad",
+        "type":"Heritage Site",
+        "description":"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #95)",
+        "combined":"Ellora Caves 95 Aurangabad Heritage Site Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #95)"
+    },
+    {
+        "id":96,
+        "name":"Shani Shingnapur 96",
+        "location":"Ahmednagar",
+        "type":"Religious",
+        "description":"Famous for the Shani temple and houses without doors. (Tourist Spot #96)",
+        "combined":"Shani Shingnapur 96 Ahmednagar Religious Famous for the Shani temple and houses without doors. (Tourist Spot #96)"
+    },
+    {
+        "id":97,
+        "name":"Mahabaleshwar 97",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #97)",
+        "combined":"Mahabaleshwar 97 Satara Hill Station A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #97)"
+    },
+    {
+        "id":98,
+        "name":"Panchgani 98",
+        "location":"Satara",
+        "type":"Hill Station",
+        "description":"A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #98)",
+        "combined":"Panchgani 98 Satara Hill Station A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #98)"
+    },
+    {
+        "id":99,
+        "name":"Lonavala 99",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Popular hill station known for waterfalls and forts. (Tourist Spot #99)",
+        "combined":"Lonavala 99 Pune Hill Station Popular hill station known for waterfalls and forts. (Tourist Spot #99)"
+    },
+    {
+        "id":100,
+        "name":"Khandala 100",
+        "location":"Pune",
+        "type":"Hill Station",
+        "description":"Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #100)",
+        "combined":"Khandala 100 Pune Hill Station Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #100)"
+    }
+]

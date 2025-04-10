@@ -1,0 +1,101 @@
+id,name,location,type,description
+1,Gateway of India,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai.
+2,Elephanta Caves,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site."
+3,Marine Drive,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view."
+4,Ajanta Caves,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE.
+5,Ellora Caves,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions."
+6,Shani Shingnapur,Ahmednagar,Religious,Famous for the Shani temple and houses without doors.
+7,Mahabaleshwar,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries.
+8,Panchgani,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings.
+9,Lonavala,Pune,Hill Station,Popular hill station known for waterfalls and forts.
+10,Khandala,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls.
+11,Gateway of India 11,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #11)
+12,Elephanta Caves 12,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #12)"
+13,Marine Drive 13,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #13)"
+14,Ajanta Caves 14,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #14)
+15,Ellora Caves 15,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #15)"
+16,Shani Shingnapur 16,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #16)
+17,Mahabaleshwar 17,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #17)
+18,Panchgani,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #18)
+19,Lonavala,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #19)
+20,Khandala 20,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #20)
+21,Gateway of India 21,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #21)
+22,Elephanta Caves 22,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #22)"
+23,Marine Drive 23,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #23)"
+24,Ajanta Caves 24,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #24)
+25,Ellora Caves 25,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #25)"
+26,Shani Shingnapur 26,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #26)
+27,Mahabaleshwar 27,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #27)
+28,Panchgani 28,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #28)
+29,Lonavala 29,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #29)
+30,Khandala 30,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #30)
+31,Gateway of India 31,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #31)
+32,Elephanta Caves 32,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #32)"
+33,Marine Drive 33,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #33)"
+34,Ajanta Caves 34,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #34)
+35,Ellora Caves 35,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #35)"
+36,Shani Shingnapur 36,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #36)
+37,Mahabaleshwar 37,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #37)
+38,Panchgani 38,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #38)
+39,Lonavala 39,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #39)
+40,Khandala 40,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #40)
+41,Gateway of India 41,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #41)
+42,Elephanta Caves 42,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #42)"
+43,Marine Drive 43,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #43)"
+44,Ajanta Caves 44,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #44)
+45,Ellora Caves 45,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #45)"
+46,Shani Shingnapur 46,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #46)
+47,Mahabaleshwar 47,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #47)
+48,Panchgani 48,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #48)
+49,Lonavala 49,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #49)
+50,Khandala 50,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #50)
+51,Gateway of India 51,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #51)
+52,Elephanta Caves 52,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #52)"
+53,Marine Drive 53,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #53)"
+54,Ajanta Caves 54,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #54)
+55,Ellora Caves 55,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #55)"
+56,Shani Shingnapur 56,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #56)
+57,Mahabaleshwar 57,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #57)
+58,Panchgani 58,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #58)
+59,Lonavala 59,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #59)
+60,Khandala 60,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #60)
+61,Gateway of India 61,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #61)
+62,Elephanta Caves 62,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #62)"
+63,Marine Drive 63,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #63)"
+64,Ajanta Caves 64,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #64)
+65,Ellora Caves 65,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #65)"
+66,Shani Shingnapur 66,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #66)
+67,Mahabaleshwar 67,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #67)
+68,Panchgani 68,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #68)
+69,Lonavala 69,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #69)
+70,Khandala 70,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #70)
+71,Gateway of India 71,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #71)
+72,Elephanta Caves 72,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #72)"
+73,Marine Drive 73,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #73)"
+74,Ajanta Caves 74,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #74)
+75,Ellora Caves 75,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #75)"
+76,Shani Shingnapur 76,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #76)
+77,Mahabaleshwar 77,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #77)
+78,Panchgani 78,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #78)
+79,Lonavala 79,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #79)
+80,Khandala 80,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #80)
+81,Gateway of India 81,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #81)
+82,Elephanta Caves 82,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #82)"
+83,Marine Drive 83,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #83)"
+84,Ajanta Caves 84,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #84)
+85,Ellora Caves 85,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #85)"
+86,Shani Shingnapur 86,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #86)
+87,Mahabaleshwar 87,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #87)
+88,Panchgani 88,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #88)
+89,Lonavala 89,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #89)
+90,Khandala 90,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #90)
+91,Gateway of India 91,Mumbai,Historical Monument,An iconic arch monument built during the 20th century in Mumbai. (Tourist Spot #91)
+92,Elephanta Caves 92,Mumbai,Heritage Site,"Rock-cut cave temples dedicated to Hindu god Shiva, a UNESCO World Heritage Site. (Tourist Spot #92)"
+93,Marine Drive 93,Mumbai,Promenade,"A 3.6 km long boulevard along the coast, famous for its scenic view. (Tourist Spot #93)"
+94,Ajanta Caves 94,Aurangabad,Heritage Site,Buddhist rock-cut caves dating back to the 2nd century BCE. (Tourist Spot #94)
+95,Ellora Caves 95,Aurangabad,Heritage Site,"Rock-cut caves representing Buddhist, Hindu and Jain religions. (Tourist Spot #95)"
+96,Shani Shingnapur 96,Ahmednagar,Religious,Famous for the Shani temple and houses without doors. (Tourist Spot #96)
+97,Mahabaleshwar 97,Satara,Hill Station,A scenic hill station known for its viewpoints and strawberries. (Tourist Spot #97)
+98,Panchgani 98,Satara,Hill Station,A charming hill station with five plateaus and colonial-era buildings. (Tourist Spot #98)
+99,Lonavala 99,Pune,Hill Station,Popular hill station known for waterfalls and forts. (Tourist Spot #99)
+100,Khandala 100,Pune,Hill Station,Twin hill station of Lonavala with lush valleys and waterfalls. (Tourist Spot #100)

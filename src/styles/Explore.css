@@ -1,0 +1,213 @@
+/* Base styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fffdf2;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard {
+  display: flex;
+  min-height: 100vh;
+  background-color: #fffbe6;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 260px;
+  background-color: #fff3c4;
+  padding: 20px;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar h2 {
+  color: #f9a825;
+  margin-bottom: 20px;
+}
+
+.sidebar nav a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  margin-bottom: 10px;
+  transition: color 0.3s ease;
+}
+
+.sidebar nav a:hover {
+  color: #f9a825;
+}
+
+.sidebar .new-chat1 {
+  margin-top: 20px;
+  padding: 10px 16px;
+  background-color: #f9a825;
+  color: white;
+  border: none;
+  margin-top: 30rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar .new-chat1:hover {
+  background-color: #fbc02d;
+}
+
+/* Main content */
+.main-content {
+  flex: 1;
+  padding: 40px;
+  background-color: #fffef8;
+}
+
+.main-content h1 {
+  font-size: 28px;
+  color: #f9a825;
+  margin-top: 3rem;
+}
+
+.subtext {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+/* Tiles */
+.tile-container {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.tile {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff9db;
+  border: 1px solid #fdd835;
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  transition: transform 0.2s, background-color 0.3s;
+}
+
+.tile:hover {
+  background-color: #fff176;
+  transform: translateY(-4px);
+}
+
+/* Quiz Section */
+.quiz-section {
+  background-color: #fffde7;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.quiz-section h2 {
+  color: #f9a825;
+  margin-bottom: 10px;
+}
+
+.quiz-options {
+  list-style: none;
+  padding: 0;
+}
+
+.quiz-options li {
+  padding: 12px 18px;
+  background-color: #fff9c4;
+  margin: 10px 0;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.quiz-options li:hover {
+  background-color: #ffe082;
+}
+
+/* Suggested Places */
+.suggested-places-container {
+  margin-top: 20px;
+}
+
+.suggested-places-grid {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.suggested-tile {
+  flex: 1;
+  background-color: #fff8e1;
+  border: 1px solid #fdd835;
+  padding: 14px;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.suggested-tile:hover {
+  background-color: #ffeb3b;
+  transform: scale(1.03);
+}
+
+/* Form Section */
+.filter-section input,
+.filter-section button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 14px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  transition: border-color 0.3s ease;
+}
+
+.filter-section input:focus {
+  border-color: #f9a825;
+  outline: none;
+}
+
+.filter-section button {
+  background-color: #f9a825;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.filter-section button:hover {
+  background-color: #fbc02d;
+}
+
+/* Toast container override */
+.Toastify__toast {
+  font-size: 14px;
+  border-radius: 8px;
+}
+
+.Toastify__close-button {
+  color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .tile-container,
+  .suggested-places-grid {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+}
